@@ -1,11 +1,5 @@
-<head>
-<style>
-body{
-	background-color:red;
-}
-</style>
-</head>
-<body >
+
+
 <h1 align="center">CODECHEF PROBLEMS</h1>
 
 <a href="https://www.codechef.com/problems/FLOW006"> 1. SUM OF DIGIT</a><br>
@@ -15,4 +9,3 @@ body{
 <a href=""> 5. </a><br>
 <a href=""> 6. </a><br>
 <a href=""> 7. </a><br>
-</body>
