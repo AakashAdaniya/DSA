@@ -9,3 +9,4 @@
 <a href=""> 5. </a><br>
 <a href=""> 6. </a><br>
 <a href=""> 7. </a><br>
+<img src="https://image.shutterstock.com/image-photo/ancient-temple-ruins-gadi-sagar-600w-786126286.jpg">
