@@ -3,21 +3,22 @@ using namespace std;
 
 int main() {
 	// your code goes here
-     int T;
-     cin>>T;
-     while(T--){
-        long n,first,last,sum;
-        cin>>n;
-        
-            first = n%10;
-            while(n>=10){
-                n=n/10;
-            }
-            last=n;
-            sum = first + last;
-            cout<<sum<<endl;
-        
-        
-     }
+	int t;
+	cin>>t;
+	while(t!=0){
+	    int n,rem;
+	    int sum=0;
+	    cin>>n;
+	    while(true){
+	        rem = n%10;
+	        sum = sum + rem;
+	        n = n/10;
+	        if(n ==0){
+	            break;
+	        }
+	    }
+	    cout<<sum<<endl;
+	    t--;
+	}
 	return 0;
 }
